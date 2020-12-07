@@ -1,0 +1,31 @@
+.wrapper {
+    width: 100%;
+}
+
+.searchResWrap {
+
+}
+
+.searchResWrap h3 {
+    margin-bottom: 15px;
+}
+
+.searchRes {
+    text-align: center;
+    margin: 25px 0;
+}
+
+.searchRes input {
+    width: 250px;
+    height: 30px;
+    margin-right: 15px;
+    text-align: center;
+}
+
+.searchRes button {
+    height: 30px;
+}
+
+.trak {
+    margin: 10px 10px;
+}

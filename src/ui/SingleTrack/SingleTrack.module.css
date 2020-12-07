@@ -1,0 +1,25 @@
+.trackWrap {
+    width: 700px;
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.trackWrap img {
+    width: 50px; 
+    height: 50px; 
+}
+.coomonStyle {
+    width: 200px;
+    text-align: start;
+    color: black;
+}
+
+/* .track {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+} */

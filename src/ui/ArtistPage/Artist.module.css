@@ -1,0 +1,25 @@
+.img {
+    text-align: center;
+}
+
+.img img {
+    width: 100px;
+    height: 100px;
+}
+
+.bio {
+    margin-bottom: 20px;
+}
+
+h3, h5 {
+    margin-bottom: 10px;
+}
+
+.tag {
+    height: 15px;
+    text-align: center;
+    background-color: rgb(23, 203, 23);
+    border-radius: 3px;
+    margin: 15px 5px 0 0;
+    padding: 3px;
+}
